@@ -29,9 +29,9 @@ x2_conditional_mean = mean_x2 + cov_xy / cov_xx * (x1 - mean_x1)<br>
                     = 0.99 + 0.53/1.07 * (x1-0.001)<br>
 x2_conditional_variance = 0.6982158881639965<br>
 <br>
-Below is the plotted image for scattered observed x1 and observed x2. <br>
-![Please refer to img.png located in the same folder if the image cannot be displayed properly.](img.png)
 Below is the plotted image for expected value of x2 with 95% confidence interval. <br>
+![Please refer to img.png located in the same folder if the image cannot be displayed properly.](img.png)
+Below is the plotted image for scattered observed x1 and observed x2. <br>
 ![Please refer to img_1.png located in the same folder if the image cannot be displayed properly.](img_1.png)
 
 # Problem 3
